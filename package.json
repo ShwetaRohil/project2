@@ -1,0 +1,17 @@
+{
+  "name": "office",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.22.1",
+    "fastify-cors": "^6.0.2",
+    "fastify-static": "^4.4.2",
+    "mongodb": "^4.1.3"
+  }
+}
